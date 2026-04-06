@@ -21,7 +21,7 @@ Python | SQL | Snowflake | Power BI | DAX
 
 ## 🗄 Data Model
 
-![ER Diagram](docs/er_diagram_sql.png)
+[View ER Diagram](ER_Digram.pdf)
 
 ## 🔗 Project Access
 
