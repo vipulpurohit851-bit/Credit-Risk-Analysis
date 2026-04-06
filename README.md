@@ -25,9 +25,9 @@ Python | SQL | Snowflake | Power BI | DAX
 
 ## 🔗 Project Access
 
-- 📓 EDA → [Open Notebook](notebooks/eda.ipynb)  
-- 🧹 Cleaning → [Open Code](notebooks/cleaning.ipynb)  
-- 🗄 SQL → [View Queries](sql/analysis.sql)  
+📓 EDA → [Open Notebook](Finance_Data_EDA.ipynb) 
+🧹 Cleaning → [Open Code](Finance_Data_Cleaning.ipynb)  
+🗄 SQL → [View Queries](Finance_sql_analysis.sql.sql)  
 
 ## 📈 Key Insights
 - High-risk customers have ~3x higher default rates  
