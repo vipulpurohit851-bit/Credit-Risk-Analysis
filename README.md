@@ -31,21 +31,21 @@ Python | SQL | Snowflake | Power BI | DAX
 
 ![Overview](dashboard/images/page1_overview.png)
 
+### 🌐 External Credit Risk Analysis
+
+![External](dashboard/images/page2_external.png)
+
 ### 👥 Demographic Risk Analysis
 
-![Demographic](dashboard/images/page2_demographic.png)
+![Demographic](dashboard/images/page3_demographic.png)
 
 ### 💰 Financial Risk Drivers
 
-![Financial](dashboard/images/page3_financial.png)
+![Financial](dashboard/images/page4_financial.png)
 
 ### 📉 Behavioral Risk Analysis
 
 ![Behavior](dashboard/images/page4_behavior.png)
-
-### 🌐 External Credit Risk Analysis
-
-![External](dashboard/images/page5_external.png)
 
 ---
 
