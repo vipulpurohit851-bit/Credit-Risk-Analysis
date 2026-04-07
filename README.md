@@ -45,7 +45,7 @@ Python | SQL | Snowflake | Power BI | DAX
 
 ### 📉 Behavioral Risk Analysis
 
-![Behavior](dashboard/images/page4_behavior.png)
+![Behavior](dashboard/images/page5_behavior.png)
 
 ---
 
