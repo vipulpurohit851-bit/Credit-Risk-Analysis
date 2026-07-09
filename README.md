@@ -37,7 +37,7 @@ Python | SQL | Snowflake | Power BI | DAX
 
 ### 👥 Demographic Risk Analysis
 
-![Demographic](dashboard/images/page3_demographic.png)
+![Demographic](dashboard/images/page3_demographic1.png)
 
 ### 💰 Financial Risk Drivers
 
