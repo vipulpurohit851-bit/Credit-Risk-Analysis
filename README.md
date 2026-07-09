@@ -41,11 +41,11 @@ Python | SQL | Snowflake | Power BI | DAX
 
 ### 💰 Financial Risk Drivers
 
-![Financial](dashboard/images/page4_financial.png)
+![Financial](dashboard/images/page4_financial1.png)
 
 ### 📉 Behavioral Risk Analysis
 
-![Behavior](dashboard/images/page5_behavior.png)
+![Behavior](dashboard/images/page5_behavior1.png)
 
 ---
 
